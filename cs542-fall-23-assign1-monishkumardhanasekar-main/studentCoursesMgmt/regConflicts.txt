@@ -1,0 +1,11 @@
+Student Id: 376has Conflict for courseE
+Student Id: 505has Conflict for courseH
+Student Id: 721has Conflict for courseD
+Student Id: 621has Conflict for courseH
+Student Id: 307has Conflict for courseE
+Student Id: 362has Conflict for courseD
+Student Id: 487has Conflict for courseE
+Student Id: 441has Conflict for courseH
+Student Id: 107has Conflict for courseE
+Student Id: 242has Conflict for courseE
+Student Id: 784has Conflict for courseE
