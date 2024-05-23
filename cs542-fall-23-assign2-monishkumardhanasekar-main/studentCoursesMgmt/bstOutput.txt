@@ -1,0 +1,16 @@
+BST: 5:CC;10:DD;14:EE;13:BB;7:AA;
+Backup-1: 5:CC;10:DD;14:EE;13:BB;7:AA;
+Backup-2: 5:CC;10:DD;14:EE;13:BB;7:AA;
+Backup-3: 5:CC;10:DD;14:EE;13:BB;7:AA;
+
+Sum of BNumbers in Main BST: 49
+Sum of BNumbers in Backup-1 BST: 49
+Sum of BNumbers in Backup-2 BST: 49
+Sum of BNumbers in Backup-3 BST: 49
+
+After Incrementing BNumbers:
+
+Sum of BNumbers in Main BST: 54
+Sum of BNumbers in Backup-1 BST: 54
+Sum of BNumbers in Backup-2 BST: 54
+Sum of BNumbers in Backup-3 BST: 50
